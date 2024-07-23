@@ -1,5 +1,4 @@
-# Ex.No: 01 PLOT A TIME SERIES DATA
-###  Date: 
+# BASIC PLOT A TIME SERIES DATA
 
 # AIM:
 To Develop a python program to Plot a time series data (Electric_Production).
